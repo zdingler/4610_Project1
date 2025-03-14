@@ -100,3 +100,9 @@ This course is important for administrators and the financial aid department. Id
 
 This query helps the university identify students that may no longer want to be enrolled at the university whether it is because they would like to transfer or drop out. The school will want to find these students and contact them to learn the reason they are not enrolled in any classes. They may offer academic or non academic counseling if the student is struggling due to external factors. Taking care of students is a university's primary goal, and this query helps identify those that may be struggling.
 
+## Database Information:
+
+
+
+Name of the database: ha_group9
+All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
