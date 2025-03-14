@@ -8,7 +8,7 @@
 2. Mingyang (Amanda) Li - [@MingyangLiAmanda](https://www.github.com/MingyangLiAmanda)
 3. Andrew Toeppner - [@AToeppner](https://www.github.com/AToeppner)
 4. Zuhair Baig - [@ZuhairBaig0](https://www.github.com/ZuhairBaig0)
-5. Koty Hall
+5. Koty Hall - [@kah02358](https://www.github.com/kah02358)
 
 ## Problem Description:
 Our University Course Management System is a database designed to help efficiently manage student enrollment, professor assignments, academic performance, and department administration in a university setting. The system is designed to give a structured way to store, retrieve, and analyze key academic data to ensure smooth operations for students, faculty, and administration. The database's primary function is to provide an optimized query system to analyze enrollments, GPA trends, professor workloads, and departmental performance.
