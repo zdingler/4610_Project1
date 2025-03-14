@@ -4,7 +4,7 @@
 61608 Group 9
 
 ## Team Members:
-1. Zack Dingler
+1. Zack Dingler - [@zdingler](https://www.github.com/zdingler)
 2. Mingyang (Amanda) Li
 3. Andrew Toeppner
 4. Zuhair Baig
