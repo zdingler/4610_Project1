@@ -70,4 +70,32 @@ This query would be helpful to department heads looking to budget for the year. 
 
 This query would be helpful to administrators looking to identify students that are excelling in their academics. Students with a GPA higher than the school average are eligbile to receive an award. Professors may also want to reach out to these excelling students and ask if they would be willing to offer help to those that may be struggling. These students that are performing well may also be eligible to be hired as a TA.
 
+6. Query 6 lists the overall GPA of students that have graduated from the univserity.
 
+![Query6](https://github.com/user-attachments/assets/2132ae85-bbfa-4a7f-86fb-19c450688798)
+
+This query would be important to administrators and department heads that want to compare current students' academic performance to those that have graduated. It is important for administrators to track academic performance each year to ensure the university's prestige academic reputation. If students' performance start to decline then administrators may look to make some changes within the curriculum.
+
+7. Query 7 lists all active students and their current overall GPA as well as all of the courses they are currently taking.
+
+![Query7](https://github.com/user-attachments/assets/fb5a099a-a4df-487a-86ba-cc0754a73b87)
+
+This query would be very important to academic advisors looking to evaluate a student's current standing in school. Advisors will want to ensure that student's are not in poor academic standing with their GPA, and also would want to make sure that stuent's are currently enrolled in courses that they need to be taking in order to graduate.
+
+8. Query 8 lists the 5 active students that have the highest GPAs.
+
+![Query8](https://github.com/user-attachments/assets/73ae5681-1d3e-4846-938e-cc8b5418f36d)
+
+This query would be vital to administrators that are in charge of finding the validictorian and salutatorian for the current academic year. 
+
+9. Query 9 lists all of the active students that have 12 or more credit hours of courses this semester.
+
+![Query9](https://github.com/user-attachments/assets/2e9dacdf-c0d7-4092-933e-69d9e67569d2)
+
+This course is important for administrators and the financial aid department. Identifying full time students (those with at least 12 credit hours) is a key factor in the amount of financial aid given to a student. Administrators will also use this to contact students that have more than the maximum number of credit hours one can take.
+
+10. Query 10 finds students that are not enrolled in any courses
+
+![Query10](https://github.com/user-attachments/assets/3338e069-e4c6-4a96-aa1a-e22e201fd4ba)
+
+This query helps the university identify students that may no longer want to be enrolled at the university whether it is because they would like to transfer or drop out. The school will want to find these students and contact them to learn the reason they are not enrolled in any classes. They may offer academic or non academic counseling if the student is struggling due to external factors. Taking care of students is a university's primary goal, and this query helps identify those that may be struggling.
