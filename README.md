@@ -106,4 +106,5 @@ This query helps the university identify students that may no longer want to be 
 
 
 Name of the database: ha_group9
-All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
+
+All queries are bookmarked through stored procedures and can be called using the format: CALL TP_Qx(); where 'x' is the query number.
