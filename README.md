@@ -39,3 +39,35 @@ The Courses entity stores the course name and credit hours. The Departments enti
 ![Enrollment](https://github.com/user-attachments/assets/2f671857-2a29-4005-95c0-b889e161bdda)
 
 ## Queries:
+
+1. Query 1 displays all of the courses currently offered at the University. The results are ordered by department in descending order.
+
+![Query1](https://github.com/user-attachments/assets/348d92c2-bdb5-421a-bcaa-cd67899f01e4)
+
+Univserity administrators are able to view what courses are offered and also what department they are in. This can be helpful to administrators looking to add a class to a professor's workload if that professor has the ability to take on another course. It also lets administrators see if a professor may be over worked with too many courses.
+
+2. Query 2 shows all of the students currently enrolled in a specific class. The results are ordered by overall GPA in descending order.
+
+![Query 2](https://github.com/user-attachments/assets/d4745d0b-d6c7-4541-b5be-05357b47f9ac)
+
+This query would be heplful to administrators seeking to make sure there are not any classes with too many or too little students. If one class has a large number of students administrators may look to add another section of the course. It also allows professors to see students in their class that may be eligible for the honors section of that course by viewing their GPA.
+
+3. Query 3 shows how many active students each professor is currently teaching. The results are ordered by the number of counted students in descending order.
+
+![Query3](https://github.com/user-attachments/assets/55629458-8803-4572-920f-a1172302ae1e)
+
+This query would be helpful to professors and administrators seeking to balance workloads between professors if possible. This also serves as a factor to look at with professor evaluation. Professors may have more students in their class as students may view that professor as being "better" than others. This also helps administrators identify if certain majors are more popular than others which would allow them to make changes so that majors and courses show more even distributions. 
+
+4. Query 4 shows the average salary of a professor. The results are grouped by the departments the professors are in and are ordered by the average salary in descernding order.
+
+![Query4](https://github.com/user-attachments/assets/e60eab41-6f17-4474-86ee-1ef82ca664bc)
+
+This query would be helpful to department heads looking to budget for the year. If paying salaries takes up a lot of the department's budget they would want to then evaluate professors to ensure the money is being used wisely. They may also want to change salaries if the department is looking to allocate money to do building renovations or give a better learning experience by providing more resources.
+
+5.  Query 5 lists all of the students that have a GPA higher than the overall GPA of all of the students at the university.
+
+![Query5](https://github.com/user-attachments/assets/91672318-8425-42df-89bc-6c701552e018)
+
+This query would be helpful to administrators looking to identify students that are excelling in their academics. Students with a GPA higher than the school average are eligbile to receive an award. Professors may also want to reach out to these excelling students and ask if they would be willing to offer help to those that may be struggling. These students that are performing well may also be eligible to be hired as a TA.
+
+
