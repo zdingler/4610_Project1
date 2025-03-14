@@ -21,3 +21,5 @@ The Students entity is one of the core elements of the data model. It stores the
 The Professors entity is the second main component of the data model. It holds the professor's salary, name, office hours, contact email, position, and research area. Professors has a one to many relationship with the Courses entity as one professor can teach a number of courses, and one course is taught by a single professor. Professors also has a many to one relationship with the Departments entity. A department can have numerous professors and a professor teaches under one department. 
 
 The Courses entity stores the course name and credit hours. The Departments entity stores the department name, building name, head of department, and also the department budget. These serve as data to provide order and also as attributes to look at to evaluate performance. 
+
+![Project1_UPDATED_MODEL](https://github.com/user-attachments/assets/0237dcbf-bdff-47a7-aa76-0d6b77e182b6)
