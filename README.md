@@ -23,3 +23,19 @@ The Professors entity is the second main component of the data model. It holds t
 The Courses entity stores the course name and credit hours. The Departments entity stores the department name, building name, head of department, and also the department budget. These serve as data to provide order and also as attributes to look at to evaluate performance. 
 
 ![Project1_UPDATED_MODEL](https://github.com/user-attachments/assets/0237dcbf-bdff-47a7-aa76-0d6b77e182b6)
+
+## Data Dictionary:
+
+![Students](https://github.com/user-attachments/assets/8a0a4a6d-be6b-4848-9ad8-f6abe9be868c)
+
+![Professors](https://github.com/user-attachments/assets/7d1bc825-280e-402b-89e2-5f2ef9b7b9db)
+
+![Courses](https://github.com/user-attachments/assets/fec96d9e-ae12-4b2a-a8a2-c9a4b476656a)
+
+![Departments](https://github.com/user-attachments/assets/242113fd-015c-4e61-829e-67a9fe058868)
+
+![Transcript](https://github.com/user-attachments/assets/f27cb2f9-1fa9-4796-bcc2-ee8524c57783)
+
+![Enrollment](https://github.com/user-attachments/assets/2f671857-2a29-4005-95c0-b889e161bdda)
+
+## Queries:
