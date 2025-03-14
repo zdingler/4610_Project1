@@ -102,6 +102,7 @@ This query helps the university identify students that may no longer want to be 
 
 ## Database Information:
 
+![Database_info](https://github.com/user-attachments/assets/3faa9d0c-16a3-4ff4-83cb-6d8af6a0d89c)
 
 
 Name of the database: ha_group9
