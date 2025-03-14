@@ -105,6 +105,6 @@ This query helps the university identify students that may no longer want to be 
 ![Database_info](https://github.com/user-attachments/assets/3faa9d0c-16a3-4ff4-83cb-6d8af6a0d89c)
 
 
-Name of the database: ha_group9
+Name of the database: ha_group9_crn61608
 
 All queries are bookmarked through stored procedures and can be called using the format: CALL TP_Qx(); where 'x' is the query number.
